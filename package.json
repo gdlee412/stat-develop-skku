@@ -1,0 +1,25 @@
+{
+  "name": "stat-creating-humay",
+  "version": "0.0.3",
+  "description": "Testing and Publishing Session",
+  "main": "main.js",
+  "bin": {
+    "stat": "./main.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdlee412/stat-creating-humay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdlee412/stat-creating-humay/issues"
+  },
+  "homepage": "https://github.com/gdlee412/stat-creating-humay#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
