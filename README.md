@@ -1,3 +1,3 @@
-# stat-creating-humay
+#STAT-DEVELOP-SKKU
 
-Testing and Publishing Session
+OSSP Assignment

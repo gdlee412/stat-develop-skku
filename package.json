@@ -21,5 +21,8 @@
   "homepage": "https://github.com/gdlee412/stat-creating-humay#readme",
   "devDependencies": {
     "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "2021315385_Gun_Daniel_Lee": "file:2021315385_Gun_Daniel_Lee-0.0.3.tgz"
   }
 }
